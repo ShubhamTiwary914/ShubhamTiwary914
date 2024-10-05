@@ -1,13 +1,13 @@
 ###  I'm Shubham Tiwary
-A CS 2nd year Student and a full stack dev currently working as an Intern this summer.
-<br /> <br />
-- My main interests lie in the backend side of things, working with backend, developing server side scripts, configurations, etc 
-<br /> I've explored a lots of fields like Game Dev, ML/AI, etc. 
-
-- Earlier I was working as a freelancer for a while, and now I like cooking stuff up for Hackathons / contests.
+A CS 3nd year Student and a Backend dev SDE Intern currently
 <br />
+- Working as SDE Intern @Yardstick (April 24' - Jan 25')
+- Freelancing, Pet Projects, Comp. Coding & some Open Sourcing in the past (2-3 years).
+- Usually into Hackathons, win some, lose some, currently on the Smart India Hackathon 24'
+- Building Systems, API Services & Making Deployments, MLOps, Integrations are stuff that I'm great at.
+- Currently Diving deep into Devops (mainly ops) - AWS, GCP, Containers, Kubernetes, CI/CD, etc
 
-- Also Getting Started with Open Source these days, starting off with the SSOC'24 (Social summer of Code)
+
 
 <br /> 
 
