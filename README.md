@@ -4,7 +4,7 @@ A CS 3nd year Student and a Backend dev SDE Intern currently
 - Working as SDE Intern @Yardstick (April 24' - Jan 25')
 - Freelancing, Pet Projects, Comp. Coding & some Open Sourcing in the past (2-3 years).
 - Usually into Hackathons, win some, lose some, currently on the Smart India Hackathon 24'
-- Building Systems, API Services & Making Deployments, MLOps, Integrations are stuff that I'm great at.
+- Building Systems, API Services & Making Deployments,Structuring, Integrations are stuff that I'm great at.
 - Currently Diving deep into Devops (mainly ops) - AWS, GCP, Containers, Kubernetes, CI/CD, etc
 
 
