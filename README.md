@@ -1,5 +1,4 @@
 ###  I'm Shubham Tiwary
-A CS 3nd year Student and a Backend dev SDE Intern currently
 <br />
 
 
